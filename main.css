@@ -6,8 +6,8 @@
 body{
     background-image: linear-gradient(to right, rgba(200,8,207,0.75), rgba(28, 184, 176, 0.8));
     padding-top: 20px;
-    text-align: center;
-    font-size: large;
+    
+    font-size: x-large;
     color: white;
 }
 
@@ -22,10 +22,10 @@ em{
 
 .container{
     background-image: linear-gradient(to right, rgba(200,8,207,0.75), rgba(28, 184, 176, 0.8));
-    width: 800px;
-    height: 350px;
+    width: 900px;
+    height: 300px;
     text-align: center;
-    margin-left: 650px;
+    margin-left: 50px;
     padding-top: 20px;
     border-radius: 6px;
     color: whitesmoke;
@@ -39,3 +39,4 @@ em{
     text-decoration: none;
     font-weight: 1000px;
 }
+
